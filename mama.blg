@@ -1,0 +1,24 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: mama.aux
+The style file: plain.bst
+Database file #1: waca.bib
+Warning--entry type for "kn" isn't style-file defined
+--line 23 of file waca.bib
+I was expecting a `,' or a `}'---line 27 of file waca.bib
+ :     
+ :     url       = "http://www-cs-faculty.stanford.edu/~uno/abcde.html",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Name 1 in "Alessandro Abate University of Oxford," has a comma at the end for entry ru
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "M. Pirotta, G. Manganini, L. Piroddi, M. Prandini, M. Restelli" for entry di
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "M. Pirotta, G. Manganini, L. Piroddi, M. Prandini, M. Restelli" for entry di
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "M. Pirotta, G. Manganini, L. Piroddi, M. Prandini, M. Restelli" for entry di
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "M. Pirotta, G. Manganini, L. Piroddi, M. Prandini, M. Restelli" for entry di
+while executing---line 1090 of file plain.bst
+Warning--empty publisher in di
+Name 1 in "Alessandro Abate University of Oxford," has a comma at the end for entry ru
+while executing---line 1090 of file plain.bst
+(There were 7 error messages)
